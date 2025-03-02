@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tarka\\OneDrive\\Masa\u00FCst\u00FC\\DataStructuresProje2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D163CE-B184-4B4B-97E6-4789E869FAF8}|DataStructuresProje2\\DataStructuresProje2.csproj|c:\\users\\tarka\\onedrive\\masa\u00FCst\u00FC\\datastructuresproje2\\datastructuresproje2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D163CE-B184-4B4B-97E6-4789E869FAF8}|DataStructuresProje2\\DataStructuresProje2.csproj|solutionrelative:datastructuresproje2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D163CE-B184-4B4B-97E6-4789E869FAF8}|DataStructuresProje2\\DataStructuresProje2.csproj|c:\\users\\tarka\\onedrive\\masa\u00FCst\u00FC\\datastructuresproje2\\datastructuresproje2\\\u00F6nceliklikuyruktamsayi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D163CE-B184-4B4B-97E6-4789E869FAF8}|DataStructuresProje2\\DataStructuresProje2.csproj|solutionrelative:datastructuresproje2\\\u00F6nceliklikuyruktamsayi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D163CE-B184-4B4B-97E6-4789E869FAF8}|DataStructuresProje2\\DataStructuresProje2.csproj|c:\\users\\tarka\\onedrive\\masa\u00FCst\u00FC\\datastructuresproje2\\datastructuresproje2\\\u00F6nceliklikuyruk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D163CE-B184-4B4B-97E6-4789E869FAF8}|DataStructuresProje2\\DataStructuresProje2.csproj|solutionrelative:datastructuresproje2\\\u00F6nceliklikuyruk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D163CE-B184-4B4B-97E6-4789E869FAF8}|DataStructuresProje2\\DataStructuresProje2.csproj|c:\\users\\tarka\\onedrive\\masa\u00FCst\u00FC\\datastructuresproje2\\datastructuresproje2\\myqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D163CE-B184-4B4B-97E6-4789E869FAF8}|DataStructuresProje2\\DataStructuresProje2.csproj|solutionrelative:datastructuresproje2\\myqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D163CE-B184-4B4B-97E6-4789E869FAF8}|DataStructuresProje2\\DataStructuresProje2.csproj|c:\\users\\tarka\\onedrive\\masa\u00FCst\u00FC\\datastructuresproje2\\datastructuresproje2\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D163CE-B184-4B4B-97E6-4789E869FAF8}|DataStructuresProje2\\DataStructuresProje2.csproj|solutionrelative:datastructuresproje2\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D163CE-B184-4B4B-97E6-4789E869FAF8}|DataStructuresProje2\\DataStructuresProje2.csproj|c:\\users\\tarka\\onedrive\\masa\u00FCst\u00FC\\datastructuresproje2\\datastructuresproje2\\myqueuetamsayi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D163CE-B184-4B4B-97E6-4789E869FAF8}|DataStructuresProje2\\DataStructuresProje2.csproj|solutionrelative:datastructuresproje2\\myqueuetamsayi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D163CE-B184-4B4B-97E6-4789E869FAF8}|DataStructuresProje2\\DataStructuresProje2.csproj|c:\\users\\tarka\\onedrive\\masa\u00FCst\u00FC\\datastructuresproje2\\datastructuresproje2\\um_alan\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D163CE-B184-4B4B-97E6-4789E869FAF8}|DataStructuresProje2\\DataStructuresProje2.csproj|solutionrelative:datastructuresproje2\\um_alan\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 340,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u00D6ncelikliKuyruk.cs",
+              "DocumentMoniker": "C:\\Users\\tarka\\OneDrive\\Masa\u00FCst\u00FC\\DataStructuresProje2\\DataStructuresProje2\\\u00D6ncelikliKuyruk.cs",
+              "RelativeDocumentMoniker": "DataStructuresProje2\\\u00D6ncelikliKuyruk.cs",
+              "ToolTip": "C:\\Users\\tarka\\OneDrive\\Masa\u00FCst\u00FC\\DataStructuresProje2\\DataStructuresProje2\\\u00D6ncelikliKuyruk.cs",
+              "RelativeToolTip": "DataStructuresProje2\\\u00D6ncelikliKuyruk.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowFQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:21:32.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u00D6ncelikliKuyrukTamSayi.cs",
+              "DocumentMoniker": "C:\\Users\\tarka\\OneDrive\\Masa\u00FCst\u00FC\\DataStructuresProje2\\DataStructuresProje2\\\u00D6ncelikliKuyrukTamSayi.cs",
+              "RelativeDocumentMoniker": "DataStructuresProje2\\\u00D6ncelikliKuyrukTamSayi.cs",
+              "ToolTip": "C:\\Users\\tarka\\OneDrive\\Masa\u00FCst\u00FC\\DataStructuresProje2\\DataStructuresProje2\\\u00D6ncelikliKuyrukTamSayi.cs",
+              "RelativeToolTip": "DataStructuresProje2\\\u00D6ncelikliKuyrukTamSayi.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:21:32.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyQueueTamSayi.cs",
+              "DocumentMoniker": "C:\\Users\\tarka\\OneDrive\\Masa\u00FCst\u00FC\\DataStructuresProje2\\DataStructuresProje2\\MyQueueTamSayi.cs",
+              "RelativeDocumentMoniker": "DataStructuresProje2\\MyQueueTamSayi.cs",
+              "ToolTip": "C:\\Users\\tarka\\OneDrive\\Masa\u00FCst\u00FC\\DataStructuresProje2\\DataStructuresProje2\\MyQueueTamSayi.cs",
+              "RelativeToolTip": "DataStructuresProje2\\MyQueueTamSayi.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAWwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:21:32.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyQueue.cs",
+              "DocumentMoniker": "C:\\Users\\tarka\\OneDrive\\Masa\u00FCst\u00FC\\DataStructuresProje2\\DataStructuresProje2\\MyQueue.cs",
+              "RelativeDocumentMoniker": "DataStructuresProje2\\MyQueue.cs",
+              "ToolTip": "C:\\Users\\tarka\\OneDrive\\Masa\u00FCst\u00FC\\DataStructuresProje2\\DataStructuresProje2\\MyQueue.cs",
+              "RelativeToolTip": "DataStructuresProje2\\MyQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:21:32.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tarka\\OneDrive\\Masa\u00FCst\u00FC\\DataStructuresProje2\\DataStructuresProje2\\Program.cs",
+              "RelativeDocumentMoniker": "DataStructuresProje2\\Program.cs",
+              "ToolTip": "C:\\Users\\tarka\\OneDrive\\Masa\u00FCst\u00FC\\DataStructuresProje2\\DataStructuresProje2\\Program.cs",
+              "RelativeToolTip": "DataStructuresProje2\\Program.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAnwEgBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:21:32.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyStack.cs",
+              "DocumentMoniker": "C:\\Users\\tarka\\OneDrive\\Masa\u00FCst\u00FC\\DataStructuresProje2\\DataStructuresProje2\\MyStack.cs",
+              "RelativeDocumentMoniker": "DataStructuresProje2\\MyStack.cs",
+              "ToolTip": "C:\\Users\\tarka\\OneDrive\\Masa\u00FCst\u00FC\\DataStructuresProje2\\DataStructuresProje2\\MyStack.cs",
+              "RelativeToolTip": "DataStructuresProje2\\MyStack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:21:32.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UM_Alan\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\tarka\\OneDrive\\Masa\u00FCst\u00FC\\DataStructuresProje2\\DataStructuresProje2\\UM_Alan\u0131.cs",
+              "RelativeDocumentMoniker": "DataStructuresProje2\\UM_Alan\u0131.cs",
+              "ToolTip": "C:\\Users\\tarka\\OneDrive\\Masa\u00FCst\u00FC\\DataStructuresProje2\\DataStructuresProje2\\UM_Alan\u0131.cs",
+              "RelativeToolTip": "DataStructuresProje2\\UM_Alan\u0131.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:21:32.346Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
